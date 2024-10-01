@@ -1,0 +1,10 @@
+//JavaScript-код с созданием переменных
+
+/*Автор:», 
+а на 2-й — ваши Имя и Фамилия либо никнейм. */
+let admin, name; 
+name = 'John';
+admin = name;
+
+alert('admin');
+
